@@ -64,7 +64,7 @@
     .card-container{
         grid-template-columns: 440px 440px 440px;
         width: 1350px;
-        column-gap: 10px;
+        column-gap: 15px;
     }
     
     .card-container div img{
@@ -80,7 +80,7 @@
         
         grid-template-columns: 660px 660px;
         width: 1350px;
-        column-gap: 50px;
+        column-gap: 60px;
     }
 
     .about img{
